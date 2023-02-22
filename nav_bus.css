@@ -14,7 +14,7 @@
 }
 
 .bus-image {
-    height: 200px;
+    height: 40vh;
     width: 50%;
 }
 
@@ -55,6 +55,7 @@
 .sub-bg-container {
     background-color: #031636;
     height: 100vh;
+    border-radius: 20px;
 }
 
 .sub_banner_section_main_heading {
@@ -92,6 +93,7 @@
 .bg-container {
     background-color: #031636;
     height: 135vh;
+    border-radius: 20px;
 }
 
 .main-heading {
